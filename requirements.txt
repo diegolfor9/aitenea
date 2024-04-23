@@ -2,4 +2,4 @@ streamlit
 numpy
 pandas
 matplotlib
-rdkit-pypi
+rdkit-pypi==2023.9.5
